@@ -1,0 +1,88 @@
+{
+  "hero_content": "Ich bin ein Java Backend Entwickler mit einer Leidenschaft für das Meistern von Backend-Systemen und -Architekturen. Mit dem Fokus auf die Bereitstellung effizienter, skalierbarer und wartbarer Anwendungen strebe ich danach, qualitativ hochwertige Lösungen zu entwickeln, die die Leistung und Zuverlässigkeit des Systems vorantreiben. Meine Expertise umfasst Java und wichtige Backend-Technologien, und ich strebe stets danach, durch praxisnahes Lernen und berufliche Weiterentwicklung zu wachsen. Während ich daran arbeite, ein Experte auf diesem Gebiet zu werden, möchte ich bedeutende Beiträge zu herausfordernden, impactvollen Projekten leisten.",
+  "hero_title": "Java Backend Entwickler",
+  "about_text": "Als Java Backend Entwickler spezialisiere ich mich auf die Erstellung robuster, skalierbarer und leistungsstarker Anwendungen mit Java und verwandten Technologien. Meine berufliche Reise begann mit einer intensiven Neugier für Systeme und deren Architektur, die sich zu einer Fokussierung auf die Backend-Entwicklung entwickelte. Mit praktischer Erfahrung in Java, Spring und Datenbanktechnologien bin ich darauf spezialisiert, komplexe Probleme zu lösen und die Systemleistung zu optimieren. Ich glaube an kontinuierliches Lernen und suche aktiv nach Möglichkeiten, mein Fachwissen auszubauen. Abseits der Entwicklung bin ich leidenschaftlich an Sport interessiert, insbesondere an Weighted Calisthenics, wo ich mich auf das Überwinden meiner Grenzen konzentriere und versuche, persönliches Wohlbefinden mit Produktivität in Einklang zu bringen.",
+  "about-me-title-1": "Über",
+  "about-me-title-2": " Mich",
+  "technologies-title": "Technologien",
+  "experiences-title": "Erfahrung",
+  "projects-title": "Projekte",
+  "contacts-title": "Kontakt",
+  "experiences": [
+    {
+      "year": "2024 - Heute",
+      "role": "Junior Java Backend Entwickler",
+      "company": {
+        "name": "nexnet GmbH",
+        "link": "https://www.nexnet.de/"
+      },
+      "description": "Als Junior Java Backend Entwickler bin ich verantwortlich für die Entwicklung und Wartung von Java-basierten Backend-Anwendungen mit Spring Boot. Ich konzentriere mich auf den Aufbau und die Integration von RESTful APIs, die Durchführung von Unit- und Integrationstests zur Sicherstellung der hohen Codequalität und die Zusammenarbeit in agilen Teams. Zudem führe ich Code-Reviews durch, um Wartbarkeit und Best Practices zu gewährleisten.",
+      "technologies": ["Java", "Spring Boot", "SQL", "Maven", "Git", "Docker", "Postman", "Bamboo"]
+    },
+    {
+      "year": "2021 - 2024",
+      "role": "Fachinformatiker/in - Anwendungsentwicklung",
+      "company": {
+        "name": "nexnet GmbH",
+        "link": "https://www.nexnet.de/"
+      },
+      "description": "Während meiner Ausbildung als Softwareentwickler habe ich umfassende Erfahrungen mit Java, Spring und SQL gesammelt und dabei moderne Entwicklungstools wie Maven, Git, Docker und Postman eingesetzt. Ich habe sowohl Backend- als auch Frontend-Projekte mit Fokus auf Unit-Tests (JUnit), Sicherheitskonzepten und UI/UX-Design durchgeführt und dabei ein solides Verständnis für Projektmanagement-Methoden entwickelt.",
+      "technologies": ["Java", "Spring", "Maven", "SQL", "Hibernate", "JasperReports", "Docker", "Git", "Postman", "Bamboo"]
+    },
+    {
+      "year": "2019 - 2021",
+      "role": "Technische Informatik (B.Eng.)",
+      "company": {
+        "name": "Berliner Hochschule für Technik",
+        "link": "https://www.bht-berlin.de/"
+      },
+      "description": "Diese Erfahrung war entscheidend, um meine Entscheidung, eine Karriere in der Programmierung einzuschlagen, zu festigen. Sie gab mir ein tiefes Verständnis für Programmierprinzipien, beginnend mit C, und half mir, eine solide Grundlage sowohl in Embedded Systems als auch in der allgemeinen Softwareentwicklung zu entwickeln.",
+      "technologies": ["C", "Digitale Systeme"]
+    },
+    {
+      "year": "2016 - 2019",
+      "role": "Staatlich geprüfte(r) elektrotechnische(r) Assistent(in) Schwerpunkt: Elektronik und Datentechnik",
+      "company": {
+        "name": "Hein-Moeller-Schule",
+        "link": "https://www.hein-moeller-schule.de/"
+      },
+      "description": "Dies war der Beginn meiner Programmierreise, bei der ich mit C++, HTML, CSS, SQL und PHP arbeitete. Ich habe Webentwicklung kennengelernt, indem ich eine Website für ein fiktives Startup erstellte und mich mit SQL und PHP für die Backend-Entwicklung beschäftigte. Zudem sammelte ich praktische Erfahrungen mit Linux, indem ich den Zugriff auf Dateien über die Kommandozeile einrichtete und mich mit Verteilungssystemen beschäftigte.",
+      "technologies": ["HTML", "CSS", "SQL", "PHP", "C++", "Linux"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "image": "https://raw.githubusercontent.com/Michael-Vardanyan/image-host/main/images/portfolio-project-images/portfolio-website.png",
+      "link": "https://bymichael.dev",
+      "description": "Eine persönliche Portfolio-Website, die meine Projekte, Fähigkeiten und Kontaktdaten präsentiert.",
+      "technologies": ["Vite", "React", "Tailwind CSS"]
+    },
+    {
+      "title": "URL Shortener",
+      "image": "https://raw.githubusercontent.com/Michael-Vardanyan/image-host/main/images/portfolio-project-images/url-shortener.png",
+      "link": "https://url-shortener.bymichael.dev",
+      "description": "Eine URL-Shortener, mit der Nutzer Links verkürzen und deren Nutzung verfolgen können.",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "title": "Dog Glossary",
+      "image": "https://raw.githubusercontent.com/Michael-Vardanyan/image-host/main/images/portfolio-project-images/dog-glossary.png",
+      "link": "https://dog-glossary.bymichael.dev",
+      "description": "Eine interaktive App zum Durchstöbern von Hunderassen von A-Z mit detaillierten Beschreibungen und Bildern.",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "title": "To-Do List",
+      "image": "https://raw.githubusercontent.com/Michael-Vardanyan/image-host/main/images/portfolio-project-images/todo-list.png",
+      "link": "https://todo-list.bymichael.dev",
+      "description": "Eine voll funktionsfähige To-Do-List-App mit Aufgabenverwaltung und -erstellung.",
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "contact": {
+    "message": "Kontaktiere Mich",
+    "address": "Berlin, Deutschland",
+    "email": "hello@bymichael.dev"
+  }
+}
